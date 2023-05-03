@@ -1,0 +1,38 @@
+*{
+    
+    padding: 0;
+    box-sizing:border-box;
+}
+p{
+    font-size:175% ;
+}
+.T1{
+    display: inline-block;
+    margin-left:80px ;
+}
+.T2{
+    margin-left: 180px;
+    display: inline-block;
+}
+.box1{
+    margin-left: 80px;
+    height: 100px;
+    width: 480px;
+    background-color:rgb(238, 145, 165);
+    text-align: center;
+    padding-top: 40px;
+    position: fixed;
+    font-size: 175%;
+    
+}
+.box2{
+    height: 100px;
+    width: 480px;
+    background-color:rgb(238, 145, 226);
+    text-align: center;
+    padding-top: 40px;
+    position: sticky;
+    position: -webkit-sticky;
+    font-size: 175%;
+    
+}

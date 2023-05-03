@@ -1,0 +1,111 @@
+
+
+.box1{
+    position: absolute;
+    display: inline-block;
+background-color:rgba(98, 55, 255, 0.473);
+width: 90px;
+padding: 50px 10px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+header{
+   margin-top: 15px;
+    margin-left: 10px;
+display: inline-block;
+margin-left:125px;
+}
+.box2{
+display:flex;
+width:360;
+background-color:rgba(143, 201, 228, 0.692);
+position: absolute;
+top:20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.box4{
+    width: 90px;
+    background-color: rgb(240, 142, 30);
+    text-align: center;
+    padding: 50px 10px;
+margin-left: 15px;
+position: static;
+}
+.box5{
+    background-color:rgba(84, 162, 199, 0.938);
+    text-align: center;
+    padding: 50px 10px;
+    margin: 0px 30px;
+    width: 90px;
+    position: relative;
+    bottom: 15px;
+    right:10px;
+}
+.box6{
+    width: 90px;
+    background-color: rgb(240, 142, 30);
+    text-align: center;
+    padding: 50px 10px;
+margin-right: 15px;
+position: static;
+}
+.box7{
+position: absolute;
+top:178px;
+left: 132px;
+ display:flex;
+width: 420px;
+background-color:rgba(143, 201, 228, 0.692);
+}
+.box8{
+    width: 90px;
+    background-color: rgb(240, 142, 30);
+    text-align: center;
+    padding: 50px 10px;
+margin-left: 40px;
+margin-right: 110px;
+position: static;
+}
+.box9{
+    width: 90px;
+    background-color: rgb(240, 142, 30);
+    text-align: center;
+    padding: 50px 10px;
+margin-right: 40px;
+position: static;
+}
+.box10{
+    position: absolute;
+top: 336px;
+left: 132px;
+ display: flexbox;
+width: 420px;
+background-color:rgba(143, 201, 228, 0.692);
+}
+.box11{
+    width: 90px;
+    background-color: rgb(240, 142, 30);
+    text-align: center;
+    padding: 50px 10px;
+margin-left: 15px;
+position: static;
+}
+.box12{
+    width: 90px;
+    background-color: rgb(255, 48, 238);
+    text-align: center;
+    padding: 50px 10px;
+    position: fixed;
+margin-left: 155px;
+
+
+}
+.box13{
+    width: 90px;
+    background-color: rgb(240, 142, 30);
+    text-align: center;
+    padding: 50px 10px;
+    right: 15px;
+position: static;
+margin-left: 170px;
+}
+
